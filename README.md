@@ -1,35 +1,18 @@
-Hi, I'm Siwon Park 👋
+# Hi, I'm Siwon Park 👋
 
 CS & Math @ University of Virginia | Building at the intersection of AI, Mathematics, and Physical Data.
 
-**🚀 Current Focus**
+## 🚀 **The Mission**
 
-- AI & Computer Vision: Translating physical data into digital insights.
+I'm currently focused on translating complex physical data into digital insights through AI & Computer Vision.
 
-- System Architecture: Designing scalable, mission-critical workflows.
+## 🎨 **Beyond the Code**
 
-- Cloud & Automation: Implementing serverless solutions for efficiency.
+When I'm not debugging or working through math proofs, I'm:
 
-🎨 **Beyond the Code**
+- 🎵 Producing, playing, and discovering music.
 
-When I'm not debugging or working through math proofs, you can find me:
+- 📚 Lost in a fantasy novel.
 
-- 🎵 Music: Immersed in anything music—producing tracks, playing instruments, or discovering new albums.
+- 🎮 Leveling up in my latest game obsession.
 
-- 📚 Fantasy: Getting lost in a good fantasy novel (always looking for recommendations!).
-
-- 🎮 Gaming: Leveling up in whatever video game I'm currently obsessed with.
-
-🛠️ **Core Stack**
-
-- Languages: Python, JavaScript, Java, C++, SQL
-
-- AI/ML: YOLOv8, Librosa, NumPy, Pandas, MediaPipe
-
-- Web: React, Node.js, Express, MongoDB, Serverless
-
-- Tools: AWS, Git, Agile, LaTeX
-
-📬 **Let's Connect**
-
-LinkedIn | Portfolio | Email
